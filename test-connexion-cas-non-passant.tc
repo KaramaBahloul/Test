@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test connexion cas non passant</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>58f13009-40a6-4fdb-90b8-5ca9db6b33ce</testCaseGuid>
+</TestCaseEntity>
